@@ -23,6 +23,7 @@
 **Техники:** классы эквивалентности, граничные значения
 
 **Артефакты:** [Чек-листы и тест-кейсы](https://github.com/Nikkerru/qa_projects_practicum/blob/main/Car_20sharing.xlsx)
+
 ---
 
 ### 2. 🚇 Яндекс Метро (Mobile, Android)
